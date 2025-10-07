@@ -1,2 +1,3 @@
-# Phantas
-long text to long image
+# Phantas - AI 小说图片生成
+
+一个为长篇小说生成风格一致的图片的应用。
